@@ -9,7 +9,7 @@ This mod is compatible and tested with Forge 1.8, 1.9, 1.10, 1.11 and 1.12
 The code itself is quite simple as it relies on the `AttackEntityEvent` event, called right before the particles are 
 displayed. 
 
-**Without the mod, this happens:**
+**When using the mod, only valid hits trigger particles. Without it, this happens:**
 ![](demo.gif)
 
 **This is when hitting a static entity. Imagine how this feels during a combat!**
