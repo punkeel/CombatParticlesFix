@@ -1,0 +1,11 @@
+[
+    {
+      "modid": "pk_particlesfix",
+      "name": "PK's Combat Particles Fix",
+      "description": "Hide particles for invalid hits during combats. #HitReg",
+      "version": "${version}",
+      "updateUrl": "https://punkeel.eu/particlesfix.json",
+      "authorList": ["PunKeel"],
+      "credits": "Thanks to prplz and 2pi for their open source mods that helped me build this. :)"
+    }
+]
