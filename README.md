@@ -16,7 +16,10 @@ displayed.
 
 
 ## Downloads
-[ParticlesFix-1.0.jar](https://github.com/PunKeel/CombatParticlesFix/releases/download/v1.0/ParticlesFix-1.0.jar)
+Place this jar file in your mods folder, and you're done.
+
+[**ParticlesFix-1.0.jar**](https://github.com/PunKeel/CombatParticlesFix/releases/download/v1.0/ParticlesFix-1.0.jar)
+
 
 ## Plugin Message Channel
 The mod register a `Plugin Message` channel, `ParticlesFix`. Servers are able to disable the behaviour of this mod by
